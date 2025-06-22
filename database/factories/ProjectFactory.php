@@ -23,7 +23,7 @@ class ProjectFactory extends Factory
             'description' => $this->faker->paragraph(),
             'due_date' => $this->faker->dateTimeBetween('now', '+1 year'),
             'status' => $this->faker->randomElement(['pending', 'in_progress', 'completed']),
-            'image_path' => $this->faker->imageUrl(640, 480, 'projects', true, 'Project Image'),
+            'image_path' => 'https://img.particlenews.com/image.php?type=thumbnail_580x000&url=0oTOEC_121QDw1600',
             'created_by' => 1,
             'updated_by' => 1,
         ];
