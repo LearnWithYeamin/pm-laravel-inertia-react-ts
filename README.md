@@ -1,1 +1,1 @@
-# Laravel 12 + React Full Stack App with Inertia - Project Management App
+# Laravel + Inertia + React + TypeScript  - Project Management App
