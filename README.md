@@ -1,1 +1,2 @@
-# Laravel + Inertia + React + TypeScript  - Project Management App
+# Project Management Website  
+_Built with Laravel, Inertia.js, React, and TypeScript_
